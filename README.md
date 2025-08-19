@@ -1,25 +1,42 @@
-# Hi there 👋, I'm Shashank D D  
+# Hi 👋, I'm Shashank D D  
+A passionate Full Stack Developer from India 🇮🇳  
 
-🚀 **Aspiring Software Engineer | Full Stack Developer | Java Enthusiast**  
+🌱 I’m currently learning **Java Full Stack Development, Spring Boot, and System Design**  
 
-### 👨‍💻 About Me
-- 💻 Skilled in **Core Java, Spring Boot, SQL & MongoDB**  
-- 🌱 Currently learning **Java Full Stack Development**  
-- 🔨 Worked on projects like ** Online Food Ordering App, Jungle Dash Game**  
-- 🎯 Goal: To build scalable and impactful software solutions  
-- 📍 Based in **Bengaluru, India**  
+👨‍💻 I’m currently working on projects like **Online Food Ordering System, and Social Media Management System**  
+ 
+💻 All of my projects are available on [My GitHub](https://github.com/shashankgowda1144)  
 
-### 🛠️ Tech Stack
-- **Languages:** Java, JavaScript, Python, SQL  
-- **Frameworks:** Spring Boot  
-- **Databases:** MySQL, MongoDB, PostgreSQL  
-- **Tools:** Git, GitHub, Postman, VS Code, IntelliJ  
-
-
-### 🌐 Connect with Me
-- 🔗 [Portfolio](https://shashankgowdru.netlify.app)  
-- 💼 [LinkedIn](https://in/shashank-d-d)  
-- 📧 shashankgowda1144@gmail.com  
+📬 Reach out to me at **shashankgowda1144@gmail.com**  
 
 ---
-⭐️ *"Code. Build. Learn. Repeat."*  
+
+## 🚀 GitHub Stats:
+![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankgowda1144&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankgowda1144&layout=compact&theme=radical)  
+
+---
+
+## 🛠️ Languages and Tools:  
+**Languages & Frameworks:**  
+Java | Python | JavaScript | HTML | CSS | Spring Boot | Django | FastAPI  
+
+**Databases & Cloud:**  
+MySQL | MongoDB | PostgreSQL | Netlify  
+
+**Dev Tools & Others:**  
+Git | GitHub | Postman | Swagger | Bootstrap  
+
+---
+
+## 💬 Ask me about:  
+- Full Stack Development (Java Full Stack)  
+- Spring Boot & REST APIs  
+- Databases & System Design  
+
+---
+
+## 💡 Support Me:  
+If you like my work, consider giving a ⭐ to my repositories!  
+
+---
