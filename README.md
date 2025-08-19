@@ -15,8 +15,6 @@
 - **Databases:** MySQL, MongoDB, PostgreSQL  
 - **Tools:** Git, GitHub, Postman, VS Code, IntelliJ  
 
-### 📊 GitHub Stats
-![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankgowda1144&show_icons=true&theme=radical)  
 
 ### 🌐 Connect with Me
 - 🔗 [Portfolio](https://shashankgowdru.netlify.app)  
