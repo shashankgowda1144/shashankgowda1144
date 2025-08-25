@@ -8,18 +8,11 @@ A passionate Full Stack Developer from India 🇮🇳
 💻 All of my projects are available on [My GitHub](https://github.com/shashankgowda1144)  
 
 📬 Reach out to me at **shashankgowda1144@gmail.com**  
-
----
-
-## 🚀 GitHub Stats:
-![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankgowda1144&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankgowda1144&layout=compact&theme=radical)  
-
 ---
 
 ## 🛠️ Languages and Tools:  
 **Languages & Frameworks:**  
-Java | Python | JavaScript | HTML | CSS | Spring Boot | Django | FastAPI  
+Java | Python | JavaScript | HTML | CSS | Spring Boot   
 
 **Databases & Cloud:**  
 MySQL | MongoDB | PostgreSQL | Netlify  
