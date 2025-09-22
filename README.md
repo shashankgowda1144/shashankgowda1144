@@ -1,30 +1,15 @@
-# 👋 Hi, I'm Shashank D D  
+# Hi there 👋, I'm Shashank
 
-🚀 Full Stack Developer | Java Enthusiast | Problem Solver  
+## About Me
+I'm a passionate **Full Stack Developer** with experience in **Java, Spring Boot and **Python**. I love building projects that solve real-world problems and exploring new technologies.
 
-💡 Passionate about building scalable applications and learning modern technologies.  
-🌱 Currently improving my **DSA in Java** and exploring **Spring Boot Microservices**.  
+## Skills
+- **Frontend:** HTML, CSS, JavaScript, TailwindCSS  
+- **Backend:** Java, Spring Boot
+- **Database:** MongoDB, PostgreSQL, MySQL  
+- **Tools & Others:** Git, GitHub, VS Code, REST APIs  
 
----
-
-## 🛠️ Tech Stack  
-Java | Spring Boot | MySQL | PostgreSQL | MongoDB | JavaScript | Python 
-
----
-
-## 📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=shashankgowda1144&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankgowda1144&layout=compact&theme=tokyonight)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashankgowda1144&theme=tokyonight)  
-
----
-
-## 🔗 Connect With Me  
-📧 [Email](mailto:shashankgowda1144@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/shashankgowda1144)  
-🌐 [Portfolio](https://shashankgowda1144.github.io/Portfolio)  
-👨‍💻 [GitHub](https://github.com/shashankgowda1144)  
-
----
-
-✨ *“Code. Debug. Learn. Repeat.”*  
+## Contact
+- Email: shashank@example.com  
+- LinkedIn: [linkedin.com/in/shashank](https://linkedin.com/in/shashank)  
+- GitHub: [github.com/shashankgowda1144](https://github.com/shashankgowda1144)
