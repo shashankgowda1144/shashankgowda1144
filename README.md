@@ -1,14 +1,33 @@
-# Hello World... I am Shashank D D 👋  
+# 👋 Hi, I'm Shashank D D  
+
 🚀 Full Stack Developer | Java Enthusiast | Problem Solver  
-Passionate about building scalable applications and exploring modern technologies  
+
+💡 Passionate about building scalable applications and learning modern technologies.  
+🌱 Currently improving my **DSA in Java** and exploring **Spring Boot Microservices**.  
 
 ---
 
-## 🧑‍💻 About Me  
-I am a **Full Stack Developer** with strong expertise in **Java, Spring Boot, Node.js, and React.js**, along with a growing focus on **backend system design** and **cloud deployment**.  
-I enjoy solving real-world problems with technology and continuously improving my skills in **software engineering, DSA in Java, and full stack development**.  
+## 🛠️ Tech Stack  
+- **Languages:** Java, JavaScript, Python, SQL  
+- **Frontend:** React.js, HTML, CSS, TailwindCSS  
+- **Backend:** Spring Boot, Node.js, Express.js  
+- **Database:** MySQL, PostgreSQL, MongoDB  
+- **Tools:** Git, GitHub, Docker, Postman  
 
-I also love exploring **AI-driven applications, backend optimizations, and open-source projects**.  
+---
+
+## 📂 Featured Projects  
+- 🍔 **Food Order App (Spring Boot)** – REST APIs, authentication & cart workflows  
+- 🎮 **Jungle Dash (Python, PyGame)** – Gesture-controlled 2D platformer game  
+- 📚 **Book Review Platform (MERN)** – Book reviews, ratings & authentication  
+- 💸 **Splitwise Clone (FastAPI + React)** – Expense tracking & settlements  
+- 🏆 **Leaderboard App (Node.js + React)** – Real-time ranking system  
+
+---
+
+## 📊 GitHub Stats  
+![Stats](https://github-readme-stats.vercel.app/api?username=shashankgowda1144&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankgowda1144&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -20,60 +39,4 @@ I also love exploring **AI-driven applications, backend optimizations, and open-
 
 ---
 
-## 🛠️ Languages & Technologies  
-
-**Frontend**  
-React.js • HTML • CSS • Tailwind CSS • JavaScript  
-
-**Backend & Database**  
-Java • Spring Boot • Node.js • Express.js • MongoDB • MySQL • PostgreSQL • JWT  
-
-**Tools & DevOps**  
-Git • GitHub • Maven • Docker • VS Code • Postman  
-
-**Other Interests**  
-AI/ML • Computer Vision • UI/UX (basic design in Figma)  
-
----
-
-## 📊 Current Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashankgowda1144&theme=radical)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shashankgowda1144&theme=react-dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashankgowda1144&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankgowda1144&layout=compact&theme=radical)  
-
----
-
-## 📂 Projects  
-
-- 🍔 **Online Food Order App (Spring Boot)** – REST APIs, role-based authentication, order/cart workflows.  
-- 🎮 **Jungle Dash (Python, PyGame, OpenCV)** – Gesture-controlled 2D platformer game.  
-- 📚 **Book Review Platform (MERN)** – Review and rating system with authentication.  
-- 💸 **Splitwise Clone (FastAPI + React)** – Expense tracking and settlements with chatbot integration.  
-- 🏆 **Leaderboard App (Node.js + React)** – Real-time ranking and point-claiming system.  
-- 🏨 **Hotel Management System (Spring Boot)** – Booking APIs with pagination.  
-- 🚘 **Driver Drowsiness Detection (AI/ML + CV)** – Safety-focused detection system.  
-
----
-
-## 📌 Current Activities  
-✅ Preparing for **Java Full Stack Developer roles**  
-✅ Improving **DSA in Java** & problem-solving skills  
-✅ Learning **Spring Boot Microservices & Cloud Deployment**  
-✅ Exploring **AI-powered apps and LLM integrations**  
-✅ Building projects for hands-on experience  
-
----
-
-## 🛠️ Upcoming Technologies in My Journey (2025)  
-- Spring Boot Microservices  
-- Next.js  
-- Docker & Kubernetes  
-- AWS & Cloud Deployment  
-- Testing with JUnit, Mockito, Jest  
-- GraphQL  
-- Advanced System Design  
-
----
-
-⚡ *“Code. Debug. Learn. Repeat.”*  
+✨ *“Code. Debug. Learn. Repeat.”*  
