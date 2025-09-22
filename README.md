@@ -1,35 +1,53 @@
-# Hi 👋, I'm Shashank D D  
-A passionate Full Stack Developer from India 🇮🇳  
+# Hi there 👋, I'm Shashank D D  
 
-🌱 I’m currently learning **Java Full Stack Development, Spring Boot, and System Design**  
+🚀 **Full Stack Developer | Java Enthusiast | Problem Solver**  
 
-👨‍💻 I’m currently working on projects like **Online Food Ordering System, and Social Media Management System**  
- 
-💻 All of my projects are available on [My GitHub](https://github.com/shashankgowda1144)  
+I’m a passionate Full Stack Developer from **India 🇮🇳**, constantly learning and building scalable applications.  
 
-📬 Reach out to me at **shashankgowda1144@gmail.com**  
 ---
 
-## 🛠️ Languages and Tools:  
+## 🌱 Currently Learning
+- Java Full Stack Development  
+- Spring Boot & Microservices  
+- System Design  
+
+---
+
+## 👨‍💻 Projects
+- **[Online Food Ordering System](#)** – Built with Spring Boot, secured REST APIs, and layered architecture.  
+- **[Social Media Management System](#)** – A platform to manage posts, engagement, and analytics.  
+- **[Jungle Dash Game](#)** – Gesture-controlled 2D platformer using Python, OpenCV, and Pygame.  
+
+👉 Check out more on my [GitHub Profile](https://github.com/shashankgowda1144).  
+
+---
+
+## 🛠️ Tech Stack
+
 **Languages & Frameworks:**  
-Java | Python | JavaScript | HTML | CSS | Spring Boot   
+`Java` · `Python` · `JavaScript` · `Spring Boot` · `HTML` · `CSS`  
 
 **Databases & Cloud:**  
-MySQL | MongoDB | PostgreSQL | Netlify  
+`MySQL` · `MongoDB` · `PostgreSQL` · `Netlify`  
 
-**Dev Tools & Others:**  
-Git | GitHub | Postman | Swagger | Bootstrap  
+**Tools & Platforms:**  
+`Git` · `GitHub` · `Postman` · `Swagger` · `Bootstrap`  
 
 ---
 
-## 💬 Ask me about:  
+## 💬 Ask Me About
 - Full Stack Development (Java Full Stack)  
 - Spring Boot & REST APIs  
 - Databases & System Design  
 
 ---
 
-## 💡 Support Me:  
-If you like my work, consider giving a ⭐ to my repositories!  
+## 📫 How to Reach Me
+- ✉️ Email: **shashankgowda1144@gmail.com**  
+- 🌐 GitHub: [@shashankgowda1144](https://github.com/shashankgowda1144)  
 
 ---
+
+## 💡 Support Me
+If you like my work, consider giving my repositories a ⭐ to support and encourage me!  
+
