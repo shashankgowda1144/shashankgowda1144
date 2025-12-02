@@ -2,7 +2,7 @@
 # I'm Shashank
 
 ## About Me
-I'm a passionate **Full Stack Developer** with experience in **Java, Spring Boot and **Python**. I love building projects that solve real-world problems and exploring new technologies.
+I'm a passionate **Full Stack Developer** with experience in Java, Spring Boot and Python. I love building projects that solve real-world problems and exploring new technologies.
 
 ## Skills
 - **Frontend:** HTML, CSS, JavaScript, TailwindCSS  
