@@ -7,7 +7,7 @@ I'm a passionate **Full Stack Developer** with experience in Java, Spring Boot a
 ## Skills
 - **Frontend:** HTML, CSS, JavaScript, TailwindCSS  
 - **Backend:** Java, Spring Boot
-- **Database:** MongoDB, PostgreSQL, MySQL  
+- **Database:** MongoDB, MySQL  
 - **Tools & Others:** Git, GitHub, VS Code, REST APIs  
 
 ## Contact
